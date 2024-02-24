@@ -1,2 +1,3 @@
-# roulette
-Small roulette game that runs in your terminal.
+# CASINO
+This is the space where I where create different casino inspired games.
+I will be starting with Roulette!
